@@ -9,7 +9,7 @@ We will be using:
 * GTest to ensure correctness within our code
 
 ## General Overview of the Course
-## Week 1
+### Week 1
 * Asymptotic Notation
 * Lambda Functions
 * Smart Pointers
