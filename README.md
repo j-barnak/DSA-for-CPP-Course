@@ -23,5 +23,6 @@ We will be using:
     * Memory Allocator
 ### Week 3
 * Divide and Conquer Algorithms
-[IN PROGRESS]
 * Binary Tree
+
+[IN PROGRESS]
