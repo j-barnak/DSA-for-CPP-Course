@@ -13,7 +13,9 @@ We will be using:
 * Asymptotic Notation
 * Lambda Functions
 * Smart Pointers
+* Tempates
 * Move Semantics
+* Iterators
 
 ### Week 2
 * Linked Lists
