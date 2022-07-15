@@ -1,4 +1,4 @@
-# Welcome to DSA Course for C++
+# Welcome to the DSA Course for C++
 
 This is a curated course for C++ and its aim is to create strong C++ programmers using a hands-on project oriented approach.
 
