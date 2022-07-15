@@ -15,13 +15,13 @@ We will be using:
 * Smart Pointers
 * Move Semantics
 
-## Week 2
+### Week 2
 * Linked Lists
 * Projects
     * Linked List Basic Implementation
     * Linked List Container
     * Memory Allocator
-## Week 3
+### Week 3
 * Divide and Conquer Algorithms
 [IN PROGRESS]
 * Binary Tree
