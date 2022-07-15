@@ -4,7 +4,7 @@ This is a curated course for C++ and its aim is to create strong C++ programmers
 
 We will be using: 
 * Modern CMake
-* Creating containers as per the named containers requirements: https://en.cppreference.com/w/cpp/named_req/Container
+* Creating containers as per the </a href="https://en.cppreference.com/w/cpp/named_req/Container">named containers requirements</a>
     * This means creating generalized data structures and algorithms
 * GTest to ensure correctness within our code
 
