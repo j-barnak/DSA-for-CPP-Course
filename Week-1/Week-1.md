@@ -28,4 +28,4 @@ Exercises:
 ### Lambda Functions and Higher Order Functions
 Read:
 * SICP Distilled Chapter 1.3, "Higher Order Functions"
-* 
+ 
