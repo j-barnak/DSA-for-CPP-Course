@@ -27,5 +27,32 @@ Exercises:
 
 ### Lambda Functions and Higher Order Functions
 Read:
-* SICP Distilled Chapter 1.3, "Higher Order Functions"
+* SICP Distilled Chapter 1.3, "Higher Order Functions" found <a href="https://www.sicpdistilled.com/section/1.3-higher-order/"> here </a>
+* learncpp.com's sections (12.7 - 12.8) on lambda functions starting <a href="https://www.learncpp.com/cpp-tutorial/introduction-to-lambdas-anonymous-functions/"> here </a>
+
+Exercises:
+* SICP Distilled SICP Distilled Chapter 1.3, "Higher Order Functions" exercises found on the bottom <a href="https://www.sicpdistilled.com/section/1.3-higher-order/"> here </a>
+* learncpp.com's section exercises (12.7 - 12.8) on lambda functions starting <a href="https://www.learncpp.com/cpp-tutorial/introduction-to-lambdas-anonymous-functions/"> here </a>
+
+### Smart Pointers and Move Semantics
+Read:
+* learncpp section labeled "Smart Pointers and Move Semantics" starting <a href="https://www.learncpp.com/cpp-tutorial/intro-to-smart-pointers-move-semantics/"> here </a>
+
+Watch:
+* *Optional* There are CppCon videos on the topic.
+
+Exercises:
+* learncpp section exercises for the section "Smart Pointers and Move Semantics" starting <a href="https://www.learncpp.com/cpp-tutorial/intro-to-smart-pointers-move-semantics/"> here </a>
+
+### Templates 
+Read:
+* learncpp section labeled "Templates and classes" starting <a href="https://www.learncpp.com/cpp-tutorial/template-classes/"> here </a>
+
+Watch:
+* *Optional* There are CppCon videos on the topic.
+
+Exercises:
+* learncpp.com's section exercises on templates starting <a href="https://www.learncpp.com/cpp-tutorial/template-classes/"> here </a>
+
+
  
